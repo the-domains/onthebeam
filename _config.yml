@@ -1,7 +1,7 @@
 name: onthebeam
 favicon: null
-layout_spectrum: 0.5130635350942612
-typography_spectrum: 0.18780520581640303
+layout_spectrum: 0.68281
+typography_spectrum: 0.20022
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9070410698186606
+  brandStrength: 0.75
   lightness: 0.17862337525002658
   saturation: 0.1649264981970191
   rhythmicContrast: 0.5780076757073402
