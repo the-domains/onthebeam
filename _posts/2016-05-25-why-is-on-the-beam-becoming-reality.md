@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Why is ON THE BEAM becoming reality? '
-datePublished: '2016-05-25T05:32:44.259Z'
-dateModified: '2016-05-25T05:31:29.815Z'
+datePublished: '2016-05-25T05:37:32.880Z'
+dateModified: '2016-05-25T05:35:04.396Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-why-is-on-the-beam-becoming-reality.md
@@ -38,4 +38,4 @@ Ok I think that might be all my reasons. I'm sure there are more but you get the
 
 Reasons to start a blog:
 
-* 1\. It's time to do something I want to do without worrying about how it's going to turn out. I'm just showing up. SHOWING UP. Hi, here I am. I'm blogging. It might be weird and awkward at first. Actually, I'm pretty sure it's totally weird and awkward. I'll look back on these intial posts and cringe someday after I've hit my groove but oh well! It's just time to dive in and try this. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/270cd929-ee46-4ee3-98b5-0e138689b16b.jpg)
+1\. It's time to do something I want to do without worrying about how it's going to turn out. I'm just showing up. SHOWING UP. Hi, here I am. I'm blogging. It might be weird and awkward at first. Actually, I'm pretty sure it's totally weird and awkward. I'll look back on these intial posts and cringe someday after I've hit my groove but oh well! It's just time to dive in and try this.
