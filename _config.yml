@@ -1,5 +1,8 @@
+name: On The Beam
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.66812
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.4856631
-  lightness: 0.5
   brandColors:
     - '#776A5A'
     - '#BF4B3C'
     - '#110E05'
     - '#D4BFAA'
     - '#743F1F'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.5780076757073402
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: On The Beam
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.66812
-layout_spectrum: 0.22742
+purpose: []
