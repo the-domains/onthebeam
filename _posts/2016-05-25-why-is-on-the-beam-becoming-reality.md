@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Why is ON THE BEAM becoming reality? '
-datePublished: '2016-05-25T05:23:41.573Z'
-dateModified: '2016-05-25T05:23:00.417Z'
+datePublished: '2016-05-25T05:27:07.560Z'
+dateModified: '2016-05-25T05:27:02.217Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-25-why-is-on-the-beam-becoming-reality.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-why-is-on-the-beam-becoming-reality.md
 url: why-is-on-the-beam-becoming-reality/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3ae4130-2140-4bb0-8ad8-7bf362e16af0.jpg)
+
 Why is ON THE BEAM becoming reality? 
 
 I've thought about writing a blog for so.so.long.But I have always been really good at talking myself out of things. It's a hidden (not actually) sprititual gift of mine. I'm sure it has a purpose somewhere in my life...right? But seriously. Look at this list.
