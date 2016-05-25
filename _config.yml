@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0.375
-  brandStrength: 0.25
+  brandStrength: 0.8297491
   lightness: 0.5
   brandColors:
     - '#685D57'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: On The Beam
 favicon: null
+name: On The Beam
 opengraph:
   image: null
   type: null
