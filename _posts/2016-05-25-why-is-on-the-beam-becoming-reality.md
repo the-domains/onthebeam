@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Why is ON THE BEAM becoming reality? '
-datePublished: '2016-05-25T05:30:00.996Z'
-dateModified: '2016-05-25T05:29:56.670Z'
+datePublished: '2016-05-25T05:32:44.259Z'
+dateModified: '2016-05-25T05:31:29.815Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-why-is-on-the-beam-becoming-reality.md
