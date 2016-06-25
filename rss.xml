@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[On The Beam]]></title>
         <description><![CDATA[On The Beam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onthebeam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 12:42:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 00:32:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onthebeam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Typical Day]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72347c2c-fa83-45b9-a34d-624e4afe482e.jpg">]]></description>
+            <link>https://thegrid.ai/onthebeam/a-typical-day/index.html</link>
+            <guid isPermaLink="false">feee6552-1115-4e52-8bfe-bfac4bad3c7b</guid>
+            <pubDate>Sat, 25 Jun 2016 00:32:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All My Reasons Not to Blog ]]></title>
             <description><![CDATA[<p>ON THE BEAM...All My Reasons Not to Blog</p>]]></description>
-            <link>undefinedall-my-reasons-not-to-blog/index.html</link>
+            <link>https://thegrid.ai/onthebeam/all-my-reasons-not-to-blog/index.html</link>
             <guid isPermaLink="false">710fb4c7-063c-40a2-a346-6356ab172dbf</guid>
             <pubDate>Thu, 26 May 2016 12:42:11 GMT</pubDate>
         </item>
